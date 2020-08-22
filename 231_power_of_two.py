@@ -1,6 +1,4 @@
 #!/usr/local/bin/python3
 
 print("hello, world!")
-
-
-print("version 3")
+print("version 4")
